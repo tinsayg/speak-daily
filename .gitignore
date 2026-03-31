@@ -1,0 +1,30 @@
+.next/
+node_modules/
+
+# local env files (keep examples only)
+.env
+.env.*local
+backend/.env
+
+# Cursor / Claude / IDE artifacts
+.cursor/
+.claude/
+.claude.json
+
+# MCP config may contain secrets
+.mcp.json
+
+# OS / tooling
+.DS_Store
+Thumbs.db
+*.log
+
+# Python
+backend/__pycache__/
+backend/.pytest_cache/
+backend/.venv/
+backend/venv/
+
+# vendored / unrelated
+ui-ux-pro-max-skill-main/
+
