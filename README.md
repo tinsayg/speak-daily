@@ -184,9 +184,4 @@ cp .mcp.json.example .mcp.json
 - **Frontend can’t reach backend**: verify `NEXT_PUBLIC_API_URL` and that the backend is running on port 8000.
 - **Supabase errors**: confirm service key vs anon key is used in the right place (backend uses service key).
 
----
-
-## License
-
-Add a license if you plan to make this public (MIT is a common default). If you want, tell me **public vs private** and your preferred license and I’ll add `LICENSE`.
 
