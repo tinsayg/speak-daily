@@ -1,4 +1,4 @@
-# SpeakDaily (SpeakUp) — Daily Speaking Coach
+# SpeakUp — Daily Speaking Coach
 
 SpeakDaily (working product name **SpeakUp**) is a web app that helps you improve your speaking skills through **daily video uploads**, **rule-based audio/transcript analysis**, and **progress tracking** over time.
 
